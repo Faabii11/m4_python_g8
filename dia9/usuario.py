@@ -1,0 +1,9 @@
+class Usuario:
+	def __init__(self):
+		self.nombre = None
+		self.edad = None
+		self.correo = None
+		self.region = None
+
+	def contestar_encuesta(self, ):
+		pass
